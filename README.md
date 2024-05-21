@@ -1,2 +1,2 @@
-# automatizacion-mensajes-python
- Automatizacion para los mensajes masivos de spam en Python
+# Message automation built in python
+ Application made in pure Python, using message sending libraries to automate the sending of messages from an Excel file
